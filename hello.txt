@@ -1,4 +1,3 @@
 hello git
 hello world
-hello gitworld master1
-hello gitworld hot-fix
+hello gitworld hot-fix1
